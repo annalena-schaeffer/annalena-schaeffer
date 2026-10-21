@@ -25,3 +25,26 @@ I like trying new things, figuring out how things work, and learning as I go. Th
 `Python` · `Flask` · `PostgreSQL` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
 
 ---
+
+### A Little Beyond the Code
+
+<table>
+<tr>
+<td width="35%">
+<img src="sweden-usa-flight.png" width="1000" alt="Flight between Sweden and USA">
+</td>
+<td>
+Originally from Sweden, currently studying in Chicago. Two places, plenty of new experiences, and a growing collection of projects.
+
+Moving to another country has taught me a lot about stepping outside my comfort zone, adapting to new situations, and trying new things. When I'm not coding, you can usually find me exploring the city, traveling, or spending time with friends.
+</td>
+</tr>
+</table>
+
+---
+
+### Let's Connect
+
+I'm always happy to connect with people in tech, learn from others, and explore new opportunities.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-lena-schaeffer-435aab24a)
